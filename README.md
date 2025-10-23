@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Your+Banner+Here" alt="Profile Banner" />
+  <img src="Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Muskan Kumarii Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Muskan Kumari</h1>
@@ -94,21 +94,6 @@ A decentralized application (DApp) on Ethereum, enabling secure peer-to-peer tra
 
 ---
 
-## 🛠 Instructions for Use
-
-To personalize this README further:
-
-1. Replace the placeholder banner image:  
-   `https://via.placeholder.com/800x200.png?text=Your+Banner+Here` → your custom banner URL.  
-2. Update website URL if you create a portfolio.  
-3. Commit this `README.md` to a repository **named exactly like your GitHub username** (`Muskan-1813`) to display it on your profile.  
-
----
-
 ## 📜 License & Credits
 
 © 2025 **Muskan Kumari** — Designed with ❤️ for an inspiring GitHub presence.
-
----
-
-<!-- End of Profile README -->
