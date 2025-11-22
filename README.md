@@ -77,11 +77,21 @@ A decentralized application (DApp) on Ethereum, enabling secure peer-to-peer tra
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Screenshot Style)
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Muskan-1813&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-1813&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muskan-1813&theme=github_dark" alt="Profile Details" />
+
+  <!-- Languages Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muskan-1813&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muskan-1813&theme=github_dark" alt="Repo Languages" />
+
+  <!-- Contributions + Streak -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muskan-1813&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muskan-1813&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+
 </p>
 
 ---
