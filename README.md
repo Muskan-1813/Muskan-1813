@@ -34,15 +34,20 @@
 
 ## 🧠 About Me
 
-Hi! I’m Muskan, a B.Tech CSE student and a passionate frontend developer. I love building interactive and user-friendly web applications that solve real-world problems. I’m also exploring AI/ML technologies and enjoy creating projects that combine web development with intelligent solutions. I’m constantly learning, experimenting, and contributing to open-source communities.  
+Hi! I’m **Muskan**, a passionate **Frontend Developer** and a **B.Tech CSE student** who loves crafting interactive and meaningful digital experiences.  
+I enjoy building clean, responsive, and intuitive web apps — and continuously exploring modern technologies to enhance my skills.
+
+I’m also diving into the world of **AI/ML**, blending creativity with intelligent systems to create impactful projects.  
+Curious, ambitious, and always learning — that’s me. 🚀
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔭 Building full-stack applications with **Express.js** & **Node.js**  
-- 🌱 Learning and enhancing **React** skills  
-- 🎨 Designing responsive UI with **Tailwind CSS**  
+- 🔭 Developing full-stack applications using **Node.js**, **Express.js**, and **MongoDB**  
+- 🌱 Strengthening my **React** ecosystem understanding (state, components, hooks)  
+- 🎨 Building elegant UI/UX experiences with **Tailwind CSS**  
+- 🤖 Experimenting with **AI/ML** integrations for smarter applications  
 
 ---
 
@@ -67,12 +72,13 @@ Hi! I’m Muskan, a B.Tech CSE student and a passionate frontend developer. I lo
 
 ## 🌟 Featured Projects
 
-### 🐍 [SnakeMania](https://github.com/Muskan-1813/Snake-mania.git)
-A modern, browser-based version of the classic Snake game, built using HTML, CSS, and JavaScript. Features keyboard controls, interactive sound effects, and persistent high scores.  
+### 🐍 SnakeMania
+A modern twist on the classic Snake game — smooth controls, fun sound effects, and a persistent high-score system.  
 **Tech:** HTML, CSS, JavaScript  
 
-### 🔗 [ProximaChain](https://github.com/Muskan-1813/proximaChain.git)
-A decentralized application (DApp) on Ethereum, enabling secure peer-to-peer transactions. Showcases smart contract development and integration with a web frontend.  
+### 🔗 ProximaChain
+A decentralized Ethereum-based application enabling secure peer-to-peer transactions.  
+Includes smart contracts, blockchain logic, and a React frontend powered by **Web3.js** and **Solidity**.  
 **Tech:** Solidity, Ethereum, Web3.js, React  
 
 ---
@@ -98,12 +104,12 @@ A decentralized application (DApp) on Ethereum, enabling secure peer-to-peer tra
 
 ## 📫 Contact Me
 
-- 📧 Email: [muskan987654kumari@gmail.com](mailto:muskan987654kumari@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/muskankumari1813](https://www.linkedin.com/in/muskankumari1813/)  
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 Email: **muskan987654kumari@gmail.com**  
+- 💼 LinkedIn: **linkedin.com/in/muskankumari1813**  
+- 🌍 Website: **yourwebsite.com**  
 
 ---
 
 ## 📜 License & Credits
 
-© 2025 **Muskan Kumari** — Designed with ❤️ for an inspiring GitHub presence.
+© 2025 **Muskan Kumari** — Designed with ❤️ for a creative and inspiring GitHub presence.
