@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 <p align="center">
-  <a href="https://yourwebsite.com">
+  <a href="https://muskan-1813.github.io/">
     <img src="Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Muskan Kumarii Banner" />
   </a>
 </p>
@@ -27,8 +27,8 @@
   <a href="https://www.linkedin.com/in/muskankumari1813/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  <a href="https://muskan-1813.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -37,18 +37,19 @@
 ## 🧠 About Me
 
 Hi! I’m **Muskan**, a passionate **Frontend Developer** and **B.Tech CSE student**.  
-I love building **clean, responsive, and intuitive web apps** and continuously exploring modern technologies.  
+I love building **interactive and responsive web applications** while exploring modern technologies.  
 
-I’m also diving into **AI/ML** to create smarter, impactful projects. Curious, ambitious, and always learning — that’s me. 🚀
+I’m also diving into **AI/ML** and **blockchain** to create smarter, impactful projects. 🚀  
+Curious, ambitious, and always learning — that’s me.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔭 Full-stack apps with **Node.js**, **Express.js**, **MongoDB**  
-- 🌱 Deepening knowledge of **React** (components, hooks, state management)  
-- 🎨 Creating elegant UI/UX with **Tailwind CSS**  
-- 🤖 Experimenting with **AI/ML integrations** for smarter applications  
+- 🔭 Building **full-stack apps** with **Node.js, Express.js, MongoDB**  
+- 🌱 Strengthening **React** knowledge (components, hooks, state management)  
+- 🎨 Designing elegant **UI/UX** with **Tailwind CSS**  
+- 🤖 Exploring **AI/ML** and **blockchain projects**  
 
 ---
 
@@ -56,7 +57,7 @@ I’m also diving into **AI/ML** to create smarter, impactful projects. Curious,
 
 | 💡 Languages         | 🎨 Frontend       | 🧩 Backend / Tools        | 🧠 AI / ML & Data |
 |----------------------|-----------------|--------------------------|-----------------|
-| Java, Python, JS      | React, Tailwind  | Node.js, Express.js, MongoDB | pandas          |
+| Java, Python, JavaScript | React, Tailwind CSS | Node.js, Express.js, MongoDB | pandas |
 
 ---
 
@@ -66,10 +67,15 @@ I’m also diving into **AI/ML** to create smarter, impactful projects. Curious,
 A modern twist on the classic Snake game — smooth controls, fun sound effects, and a persistent high-score system.  
 **Tech:** HTML, CSS, JavaScript  
 
-### 🔗 [ProximaChain](https://github.com/Muskan-1813/ProximaChain)
-A decentralized Ethereum-based application enabling secure peer-to-peer transactions.  
-Includes smart contracts, blockchain logic, and a React frontend powered by **Web3.js** and **Solidity**.  
-**Tech:** Solidity, Ethereum, Web3.js, React  
+### 💼 [SmartQueue](https://github.com/Muskan-1813/SmartQueue)
+A queue management system designed for ration shops, hospitals, and other organizations.  
+Real-time queue updates, SMS notifications, and QR-based check-ins for smooth user experience.  
+**Tech:** Node.js, Express.js, MongoDB, React  
+
+### 🎵 [Simon Say](https://github.com/Muskan-1813/Simon-Say)
+A fun memory game where players repeat increasingly complex sequences of colors and sounds.  
+Includes responsive UI and interactive sound effects for engaging gameplay.  
+**Tech:** HTML, CSS, JavaScript
 
 ---
 
@@ -89,7 +95,7 @@ Includes smart contracts, blockchain logic, and a React frontend powered by **We
 
 - 📧 Email: **muskan987654kumari@gmail.com**  
 - 💼 LinkedIn: **[linkedin.com/in/muskankumari1813](https://www.linkedin.com/in/muskankumari1813/)**  
-- 🌍 Website: **[yourwebsite.com](https://yourwebsite.com)**  
+- 🌍 Portfolio: **[muskan-1813.github.io](https://muskan-1813.github.io/)**  
 
 ---
 
