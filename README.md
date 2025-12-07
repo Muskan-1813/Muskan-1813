@@ -3,7 +3,9 @@
 <!-- =============================== -->
 
 <p align="center">
-  <img src="Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Muskan Kumarii Banner" />
+  <a href="https://yourwebsite.com">
+    <img src="Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Muskan Kumarii Banner" />
+  </a>
 </p>
 
 <h1 align="center">👋 Hi, I’m Muskan Kumari</h1>
@@ -34,70 +36,51 @@
 
 ## 🧠 About Me
 
-Hi! I’m **Muskan**, a passionate **Frontend Developer** and a **B.Tech CSE student** who loves crafting interactive and meaningful digital experiences.  
-I enjoy building clean, responsive, and intuitive web apps — and continuously exploring modern technologies to enhance my skills.
+Hi! I’m **Muskan**, a passionate **Frontend Developer** and **B.Tech CSE student**.  
+I love building **clean, responsive, and intuitive web apps** and continuously exploring modern technologies.  
 
-I’m also diving into the world of **AI/ML**, blending creativity with intelligent systems to create impactful projects.  
-Curious, ambitious, and always learning — that’s me. 🚀
+I’m also diving into **AI/ML** to create smarter, impactful projects. Curious, ambitious, and always learning — that’s me. 🚀
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔭 Developing full-stack applications using **Node.js**, **Express.js**, and **MongoDB**  
-- 🌱 Strengthening my **React** ecosystem understanding (state, components, hooks)  
-- 🎨 Building elegant UI/UX experiences with **Tailwind CSS**  
-- 🤖 Experimenting with **AI/ML** integrations for smarter applications  
+- 🔭 Full-stack apps with **Node.js**, **Express.js**, **MongoDB**  
+- 🌱 Deepening knowledge of **React** (components, hooks, state management)  
+- 🎨 Creating elegant UI/UX with **Tailwind CSS**  
+- 🤖 Experimenting with **AI/ML integrations** for smarter applications  
 
 ---
 
 ## 🧰 Tech Stack
 
-<table>
-  <tr>
-    <th>💡 Languages</th>
-    <th>🎨 Frontend</th>
-    <th>🧩 Backend / Tools</th>
-    <th>🧠 AI / ML & Data</th>
-  </tr>
-  <tr>
-    <td align="center">Java, Python, JavaScript</td>
-    <td align="center">React, Tailwind CSS</td>
-    <td align="center">Node.js, Express.js, MongoDB</td>
-    <td align="center">pandas</td>
-  </tr>
-</table>
+| 💡 Languages         | 🎨 Frontend       | 🧩 Backend / Tools        | 🧠 AI / ML & Data |
+|----------------------|-----------------|--------------------------|-----------------|
+| Java, Python, JS      | React, Tailwind  | Node.js, Express.js, MongoDB | pandas          |
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🐍 SnakeMania
+### 🐍 [SnakeMania](https://github.com/Muskan-1813/SnakeMania)
 A modern twist on the classic Snake game — smooth controls, fun sound effects, and a persistent high-score system.  
 **Tech:** HTML, CSS, JavaScript  
 
-### 🔗 ProximaChain
+### 🔗 [ProximaChain](https://github.com/Muskan-1813/ProximaChain)
 A decentralized Ethereum-based application enabling secure peer-to-peer transactions.  
 Includes smart contracts, blockchain logic, and a React frontend powered by **Web3.js** and **Solidity**.  
 **Tech:** Solidity, Ethereum, Web3.js, React  
 
 ---
 
-## 📊 GitHub Stats (Screenshot Style)
+## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- Profile Details Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muskan-1813&theme=github_dark" alt="Profile Details" />
-
-  <!-- Languages Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muskan-1813&theme=github_dark" alt="Most Used Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muskan-1813&theme=github_dark" alt="Repo Languages" />
-
-  <!-- Contributions + Streak -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muskan-1813&theme=github_dark&utcOffset=8" alt="Productive Time" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Muskan-1813&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-
 </p>
 
 ---
@@ -105,11 +88,12 @@ Includes smart contracts, blockchain logic, and a React frontend powered by **We
 ## 📫 Contact Me
 
 - 📧 Email: **muskan987654kumari@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/muskankumari1813**  
-- 🌍 Website: **yourwebsite.com**  
+- 💼 LinkedIn: **[linkedin.com/in/muskankumari1813](https://www.linkedin.com/in/muskankumari1813/)**  
+- 🌍 Website: **[yourwebsite.com](https://yourwebsite.com)**  
 
 ---
 
 ## 📜 License & Credits
 
-© 2025 **Muskan Kumari** — Designed with ❤️ for a creative and inspiring GitHub presence.
+© 2025 **Muskan Kumari** — Designed with ❤️ for a creative and inspiring GitHub presence.  
+Feel free to **connect or collaborate on interesting projects! 🚀**
