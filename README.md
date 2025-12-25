@@ -1,12 +1,9 @@
 <!-- =============================== -->
 <!-- 👋 GITHUB PROFILE README -->
 <!-- =============================== -->
-
-<p align="center">
-  <a href="https://muskan-1813.github.io/">
-    <img src="banner.png" alt="Muskan Kumari Banner" />
-  </a>
-</p>
+<!-- =============================== -->
+<!-- 👋 GITHUB PROFILE README -->
+<!-- =============================== -->
 
 <h1 align="center">Hi, I’m Muskan Kumari 👋</h1>
 
@@ -18,7 +15,6 @@
   I build clean, responsive, and user-friendly web applications and love turning ideas into real products.
 </p>
 
----
 
 ## 🌐 Connect With Me
 
