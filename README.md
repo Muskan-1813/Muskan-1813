@@ -117,7 +117,6 @@ Includes responsive UI and interactive sound effects.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muskan-1813&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muskan-1813&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muskan-1813&theme=tokyonight" />
 </p>
 
 ---
